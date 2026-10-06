@@ -36,7 +36,7 @@ MTL Food Safety Tracker is a Flask web application to search and explore food sa
 
 #### Installation
 1. Clone the repo
-   - ```git clone https://github.com/SilverBullet13/Montreal-Food-Safety-Alerts.git```
+   - ```https://github.com/SilverBullet13/MTL-Food-Safety-Tracker.git```
 2. Install dependencies
    - ```pip install -r requirements.txt```
 
